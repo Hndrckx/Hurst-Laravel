@@ -126,6 +126,9 @@
 									</ul>
 								</nav>
 							</div>
+							<h1>crispy</h1>
+							<h1>crispy</h1>
+							<h1>crispy</h1>
 						</div>
 					</div>
 				</div>
@@ -243,7 +246,7 @@
 		<!-- lightbox.min js -->
 		<script src="{{asset('js/lightbox.min.js')}}"></script>
 		<!-- jquery-ui js -->
-		<script src="{{'js/jquery-ui.min.js')}}"></script>
+		<script src="{{('js/jquery-ui.min.js')}}"></script>
 		<!-- jquery.nivo.slider js -->
 		<script src="{{asset('lib/js/jquery.nivo.slider.js')}}"></script>
 		<script src="{{asset('lib/home.js')}}"></script>
